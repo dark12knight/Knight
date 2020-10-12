@@ -4,7 +4,7 @@ AI GROUP MENAGEMENT BOT BASED  ON PYTHON
 # How to deploy?
 [Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
 
-# GroupManager
+# Knight Bot
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dark12knight/knight/tree/Master)
 
