@@ -6,7 +6,7 @@ AI GROUP MENAGEMENT BOT BASED  ON PYTHON
 
 # Knight Bot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dark12knight/knight/tree/Master)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dark12knight/knight)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
